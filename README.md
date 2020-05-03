@@ -1,4 +1,4 @@
-# NLP
+# Natural Language Processing
 
 Natural Language Processing in Python
 - https://www.youtube.com/watch?v=xvqsFTUsOmc
@@ -10,4 +10,11 @@ Automatic Question Answering from FAQs
 
 Krish Naik NLP Playlist
 - https://www.youtube.com/watch?v=6ZVf1jnEKGI&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm
+
+Libraries used for NLP
+- NLTK
+- Spacy
+- Gensim for Topic Modeling
+- Textblob for sentiment analysis
+- Scikit Learn for CountVectorizer, TFIDFVectorizer, ML
 

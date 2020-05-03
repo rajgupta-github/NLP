@@ -2,7 +2,7 @@
 
 # Tokenization of paragraphs/sentences
 import nltk
-nltk.download()
+# nltk.download()
 
 paragraph = """I have three visions for India. In 3000 years of our history, people from all over 
                the world have come and invaded us, captured our lands, conquered our minds. 
@@ -30,9 +30,10 @@ paragraph = """I have three visions for India. In 3000 years of our history, peo
                
 # Tokenizing sentences
 sentences = nltk.sent_tokenize(paragraph)
-
+print(sentences)
 # Tokenizing words
 words = nltk.word_tokenize(paragraph)
+print(words)
 
 
 

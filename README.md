@@ -2,9 +2,9 @@
 
 **NLP Taks**
 - Sentiment Analysis
-- Language translation
+- Language/Machine translation
 - Question and Answering
-- Text Summarization
+- Abstrative and Extractive Text Summarization
 - Named Entity Recognition(NER)
 - Sentence Completion
 - Topic Modeling

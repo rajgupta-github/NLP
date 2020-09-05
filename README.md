@@ -21,6 +21,7 @@
 - Stanford NLP
 - Textblob for sentiment analysis
 - Scikit Learn for CountVectorizer, TFIDFVectorizer, ML
+- Inflect (converting numbers to words)
 
 
 

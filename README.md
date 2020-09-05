@@ -27,6 +27,8 @@
 **Resources**
 - Krish Naik NLP Playlist
  - https://www.youtube.com/watch?v=6ZVf1jnEKGI&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm
+- Krish Naik Deep Learning Playlist
+ - https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi
 - Automatic Question Answering from FAQs 
  - https://www.youtube.com/watch?v=ZxR38An5TQE
  - https://github.com/lavanyats/QuestionAnswering_From_FAQ_Tutorial

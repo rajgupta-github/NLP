@@ -1,0 +1,25 @@
+﻿# Assignments 4
+
+### Important Notes to follow for doing the assignmnets
+
+1. Use Markdown to create your assignmnets. Use <a href="https://markdownmonster.west-wind.com/" target="_blank">Markdown_Monster</a> or <a href="https://typora.io/" target="_blank">Typora</a> to decorate your documents. 
+2. There should be pictures attached to the needed documnets can be internet souce or self made.
+3. Mention all the important formula and equations needed as per the topic
+4. Upload all the assignments chapterwise/sectionwise.
+5. Submit all your assignmnets before deadlines.
+6. Write the answers below the specific questions.
+
+
+## Chapter 4.1
+
+**Question 1.** What is Seq2seq?, Write it in your own words.
+
+
+**Question 2.** What is going inside the Encoder and Decoder?
+
+
+**Question 3.** Create your own machine translation model with seq2seq model.
+
+**Question 4.** Create a text summarization  model.
+
+**Question 5.** What is Attention mechanisms?

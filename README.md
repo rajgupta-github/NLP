@@ -18,3 +18,15 @@ Libraries used for NLP
 - Textblob for sentiment analysis
 - Scikit Learn for CountVectorizer, TFIDFVectorizer, ML
 
+
+NLP Taks
+- Sentiment Analysis
+- Language translation
+- Topic Modeling
+- Text Classification
+- Named Entity Recognition(NER)
+- Language Modeling
+- Question Aswering
+- Text Summarization
+- PartOfSpeech Taging(POS)
+- Image Captioning

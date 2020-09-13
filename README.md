@@ -37,4 +37,6 @@
  - https://www.youtube.com/watch?v=xvqsFTUsOmc
  - https://naspers.udemy.com/course/nlp-natural-language-processing-with-python/learn/lecture/13241158?start=0#overview
 - http://jalammar.github.io/illustrated-transformer/ 
+- Code Emporium Youtube channel
+ - https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA
 

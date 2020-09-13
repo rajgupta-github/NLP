@@ -18,7 +18,7 @@
 - NLTK
 - Spacy
 - Gensim for Topic Modeling
-- Stanford NLP
+- Stanford NLP (Latest replaced with Stanza – A Python NLP Package for Many Human Languages)
 - Textblob for sentiment analysis
 - Scikit Learn for CountVectorizer, TFIDFVectorizer, ML
 - Inflect (converting numbers to words)

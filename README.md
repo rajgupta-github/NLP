@@ -39,4 +39,6 @@
 - http://jalammar.github.io/illustrated-transformer/ 
 - Code Emporium Youtube channel
  - https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA
+- Tensorflow Lite for NLOP
+ - https://blog.tensorflow.org/2020/09/whats-new-in-tensorflow-lite-for-nlp.html
 

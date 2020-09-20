@@ -41,4 +41,5 @@
  - https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA
 - Tensorflow Lite for NLOP
  - https://blog.tensorflow.org/2020/09/whats-new-in-tensorflow-lite-for-nlp.html
-
+- MLU NLP
+ - https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw

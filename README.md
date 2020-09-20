@@ -43,3 +43,5 @@
  - https://blog.tensorflow.org/2020/09/whats-new-in-tensorflow-lite-for-nlp.html
 - MLU NLP
  - https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw
+- NLP Word2Vec
+ - https://towardsdatascience.com/nlp-101-word2vec-skip-gram-and-cbow-93512ee24314#:~:text=In%20the%20CBOW%20model%2C%20the,used%20to%20predict%20the%20context%20

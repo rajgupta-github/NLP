@@ -1,5 +1,19 @@
 # Natural Language Processing
 
+
+**Pre-processing**
+- Tokenization and Lowercase
+- Stemming and Lemmatization
+- Stopwords Removal
+
+**Embeddings**
+- Frequency Based
+ - Bag of Words
+ - TF-IDF
+- Prediction Based
+ - Word2Vec
+
+
 **NLP Taks**
 - Sentiment Analysis
 - Language/Machine translation

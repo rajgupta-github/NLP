@@ -8,10 +8,10 @@
 
 **Embeddings**
 - Frequency Based
- - Bag of Words
- - TF-IDF
+   - Bag of Words
+   - TF-IDF
 - Prediction Based
- - Word2Vec
+   - Word2Vec
 
 
 **NLP Taks**

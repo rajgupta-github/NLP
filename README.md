@@ -6,10 +6,10 @@
 - Stemming and Lemmatization
 - Stopwords Removal
 
-**Embeddings**
+**Embeddings (Words->Vectors)**
 - Frequency Based
-   - Bag of Words
-   - TF-IDF
+   - Bag of Words (No order of words)
+   - TF-IDF (Normalized frequency = (No of times of w in D1 / No of Unique Words in D1) * log(No of Documents /No of times w in present in all documents + 1)
 - Prediction Based
    - Word2Vec
 

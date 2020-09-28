@@ -59,3 +59,6 @@
  - https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw
 - NLP Word2Vec
  - https://towardsdatascience.com/nlp-101-word2vec-skip-gram-and-cbow-93512ee24314#:~:text=In%20the%20CBOW%20model%2C%20the,used%20to%20predict%20the%20context%20
+- https://iksinc.online/tag/continuous-bag-of-words-cbow/
+- https://www.machinelearningplus.com/nlp/cosine-similarity/
+- https://inblog.in/A-gentle-Introduction-to-LSTM-1DydP2G9fP

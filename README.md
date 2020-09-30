@@ -62,3 +62,4 @@
 - https://iksinc.online/tag/continuous-bag-of-words-cbow/
 - https://www.machinelearningplus.com/nlp/cosine-similarity/
 - https://inblog.in/A-gentle-Introduction-to-LSTM-1DydP2G9fP
+- https://www.youtube.com/playlist?list=PLwFaZuSL_mfpqO25zyIdTCRCr6Mo4xqHE (SPACY PLAYLIST)

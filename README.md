@@ -22,7 +22,7 @@
 
 **Transformer Based Models**
 [https://github.com/huggingface/transformers]
-- BERT 
+- BERT [https://huggingface.co/transformers/model_doc/bert.html]
    - Encoder stack of transformer architecture
    - Performs multiple NLP Tasks [http://jalammar.github.io/illustrated-bert/]
          - SPAM/Sentence Classification

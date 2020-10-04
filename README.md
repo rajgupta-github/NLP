@@ -25,6 +25,8 @@
    - Encoder stack of transformer architecture
    - Performs multiple NLP Tasks [http://jalammar.github.io/illustrated-bert/]
          - SPAM/Sentence Classification
+         - Image Captioning
+         - Word Embedding Generation 
    - BERTBASE (110M parameters, 12 layers in Encoder Stack, 768 hidden units in FF neural network)
    - BERTLARGE (340M parameters, 24 layers in Encoder Stack, 1024 hidden units in FF neural network)
 

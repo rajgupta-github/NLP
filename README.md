@@ -13,6 +13,17 @@
 - Prediction Based
    - Word2Vec
 
+**Basics**
+- RNN
+- LSTM
+- GRU
+- Encoder-Decoder
+- Transformer (6 layers of Encoder and Decoder with Self Attention on encoder side and attention at decoder side)
+
+**Models**
+- BERT (Encoder stack of transformer architecture)
+   - BERTBASE (110M parameters, 12 layers in Encoder Stack, 768 hidden units in FF neural network)
+   - BERTLARGE (340M parameters, 24 layers in Encoder Stack, 1024 hidden units in FF neural network)
 
 **NLP Taks**
 - Sentiment Analysis
@@ -24,7 +35,7 @@
 - Topic Modeling
 - Text Classification
 - Language Modeling
-- PartOfSpeech Taging(POS)
+- PartOfSpeech Taging(POS) [https://sites.google.com/site/partofspeechhelp/]
 - Image Captioning
 
 

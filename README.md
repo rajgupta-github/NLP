@@ -11,9 +11,11 @@
    - Bag of Words (No order of words)
    - TF-IDF (Normalized frequency = (No of times of w in D1 / No of Unique Words in D1) * log(No of Documents /No of times w in present in all documents + 1)
 - Prediction Based
-   - Word2Vec [http://jalammar.github.io/illustrated-word2vec/], [https://dash-gallery.plotly.host/dash-word-arithmetic/] [https://kavita-ganesan.com/comparison-between-cbow-skipgram-subword/#.X4EnWJMzZQ1]
+   - Word2Vec 
          - CBOW (Continuous Bag of Words)
          - SG (Skip Gram)
+         -  [http://jalammar.github.io/illustrated-word2vec/], [https://dash-gallery.plotly.host/dash-word-arithmetic/] [https://kavita-ganesan.com/comparison-between-cbow-skipgram-subword/#.X4EnWJMzZQ1]
+         
 
 **Basics**
 - RNN

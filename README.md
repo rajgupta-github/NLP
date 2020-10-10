@@ -15,6 +15,8 @@
         - CBOW (Continuous Bag of Words)
         - SG (Skip Gram)
         -  [http://jalammar.github.io/illustrated-word2vec/], [https://dash-gallery.plotly.host/dash-word-arithmetic/] [https://kavita-ganesan.com/comparison-between-cbow-skipgram-subword/#.X4EnWJMzZQ1]
+  - Glove
+  - Fast Text
          
 
 **Basics**

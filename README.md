@@ -15,12 +15,12 @@
         - CBOW (Continuous Bag of Words)
         - SG (Skip Gram)
         -  [http://jalammar.github.io/illustrated-word2vec/], 
-           [https://dash-gallery.plotly.host/dash-word-arithmetic/] 
            [https://kavita-ganesan.com/comparison-between-cbow-skipgram-subword/#.X4EnWJMzZQ1]
            [https://radimrehurek.com/gensim/auto_examples/tutorials/run_word2vec.html#sphx-glr-auto-examples-tutorials-run-word2vec-py]
   - Glove
   - Fast Text
-  - Repository of Word Embeddings [http://vectors.nlpl.eu/repository/]
+- Repository of Word Embeddings [http://vectors.nlpl.eu/repository/]
+- Visualization [https://projector.tensorflow.org/] [https://dash-gallery.plotly.host/dash-word-arithmetic/] 
          
 
 **Basics**

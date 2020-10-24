@@ -27,8 +27,9 @@
 - RNN
    - Parameter Sharing Concept (The main purpose of parameter sharing is a reduction of the parameters that the model has to learn)
    - [https://stats.stackexchange.com/questions/221513/why-are-the-weights-of-rnn-lstm-networks-shared-across-time] [https://stackoverflow.com/questions/47865034/recurrent-nns-whats-the-point-of-parameter-sharing-doesnt-padding-do-the-tri#:~:text=The%20main%20purpose%20of%20parameter,purpose%20of%20using%20a%20RNN.&text=This%20drastically%20reduces%20the%20number,patterns%20at%20different%20time%20steps.]
-   - Vanishing Gradient Problem
+   - Vanishing/Exploding Gradient Problem -> Loss of Long Term Context
 - LSTM
+   - [https://colah.github.io/posts/2015-08-Understanding-LSTMs/]
 - GRU
 - Encoder-Decoder
 - Transformer (6 layers of Encoder and Decoder with Self Attention on encoder side and attention at decoder side)

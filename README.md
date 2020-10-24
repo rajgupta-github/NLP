@@ -31,7 +31,7 @@
    - Vanishing/Exploding Gradient Problem -> Loss of Long Term Context
 - LSTM
 ![LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-chain.png)
-![LSTM CELL](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-var-GRU.png) ![EQNS](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-var-GRU.png)
+![LSTM CELL](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-var-GRU.png) 
    - [https://colah.github.io/posts/2015-08-Understanding-LSTMs/]
 - GRU
 - Encoder-Decoder
